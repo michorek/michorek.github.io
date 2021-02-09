@@ -1,2 +1,2 @@
 # michorek.github.io
-strating repository
+starting repository
